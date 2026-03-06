@@ -2944,16 +2944,7 @@ GObserver.iniciar();
 
  elementos_css = Object.assign(elementos_css,{'e_3523830_1_177216321025564341':{'fs':'22', 'lh':'1.3'}});elementos_posicao = Object.assign(elementos_posicao,{'e_3523830_1_177216321025564341':{'desktop':450, 'mobile':659.5}});elementos_css = Object.assign(elementos_css,{'e_3523830_1_177216616772405744':{'fs':'22', 'lh':'1.3'}});elementos_posicao = Object.assign(elementos_posicao,{'e_3523830_1_177216616772405744':{'desktop':470, 'mobile':629}});elementos_css = Object.assign(elementos_css,{'e_3523830_1_177245949914996993':{'fs':'29', 'lh':'1.4'}});elementos_posicao = Object.assign(elementos_posicao,{'e_3523830_1_177245949914996993':{'desktop':450, 'mobile':19}});elementos_css = Object.assign(elementos_css,{'e_3523830_1_177245957280290136':{'fs':'15', 'lh':''}});elementos_posicao = Object.assign(elementos_posicao,{'e_3523830_1_177245957280290136':{'desktop':624.375, 'mobile':81.825}});blocos_posicao = Object.assign(blocos_posicao,{'b_3523830_1_177245948783887907':{'desktop':871.5, 'mobile':839}});elementos_posicao = Object.assign(elementos_posicao,{'e_3523830_1_177216647738197094':{'desktop':450, 'mobile':11.4821}});elementos_posicao = Object.assign(elementos_posicao,{'e_3523830_1_177216649278758668':{'desktop':450, 'mobile':198.229}});elementos_css = Object.assign(elementos_css,{'e_3523830_1_177216663407387891':{'fs':'12', 'lh':'1.4'}});elementos_posicao = Object.assign(elementos_posicao,{'e_3523830_1_177216663407387891':{'desktop':600, 'mobile':367.013}});elementos_css = Object.assign(elementos_css,{'e_3523830_1_177216667777152745':{'fs':'12', 'lh':'1.4'}});elementos_posicao = Object.assign(elementos_posicao,{'e_3523830_1_177216667777152745':{'desktop':620, 'mobile':173.855}});elementos_css = Object.assign(elementos_css,{'e_3523830_1_177216678899334849':{'fs':'13', 'lh':'1.4'}});elementos_posicao = Object.assign(elementos_posicao,{'e_3523830_1_177216678899334849':{'desktop':640, 'mobile':79.7084}});elementos_css = Object.assign(elementos_css,{'e_3523830_1_177216694825922287':{'fs':'13', 'lh':'1.4'}});elementos_posicao = Object.assign(elementos_posicao,{'e_3523830_1_177216694825922287':{'desktop':660, 'mobile':133.991}});elementos_posicao = Object.assign(elementos_posicao,{'e_3523830_1_177216691160037455':{'desktop':754.391, 'mobile':346.003}});function InserirScriptsInline(){if(!window.getCrawler()){}if(!window.getCrawler()){
 
- window.pixelId = "69a03e4da2a5fa3d410e33b3";
- var a = document.createElement("script");
- a.setAttribute("async", "");
- a.setAttribute("defer", "");
- a.setAttribute("src", "https://cdn.utmify.com.br/scripts/pixel/pixel.js");
- document.head.appendChild(a);
-
-
-
- window.pixelId = "69a72f69d91e70e321b8b35e";
+ window.pixelId = "69aa408a358a3d814af0f9c5";
  var a = document.createElement("script");
  a.setAttribute("async", "");
  a.setAttribute("defer", "");
