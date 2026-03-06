@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/www.amazonopennow.com/index.html"
+    }
+  ]
+}
